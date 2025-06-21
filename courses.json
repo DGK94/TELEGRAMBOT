@@ -1,0 +1,156 @@
+
+{
+  "courses": {
+    "beginner": {
+      "technical_analysis_basics": {
+        "title": "Technical Analysis Fundamentals",
+        "duration": "4 weeks",
+        "lessons": [
+          "Introduction to Charts and Timeframes",
+          "Support and Resistance Identification",
+          "Candlestick Patterns Mastery",
+          "Volume Analysis Basics",
+          "Trend Line Drawing"
+        ],
+        "prerequisites": "None",
+        "certification": true
+      },
+      "risk_management": {
+        "title": "Risk Management Essentials",
+        "duration": "3 weeks",
+        "lessons": [
+          "Position Sizing Strategies",
+          "Stop Loss Placement",
+          "Risk-Reward Ratios",
+          "Portfolio Diversification",
+          "Psychology of Risk"
+        ],
+        "prerequisites": "None",
+        "certification": true
+      },
+      "crypto_basics": {
+        "title": "Cryptocurrency Fundamentals",
+        "duration": "2 weeks",
+        "lessons": [
+          "Blockchain Technology Overview",
+          "Bitcoin vs Altcoins",
+          "Wallet Security",
+          "Exchange Selection",
+          "DeFi Introduction"
+        ],
+        "prerequisites": "None",
+        "certification": true
+      }
+    },
+    "intermediate": {
+      "advanced_technical_analysis": {
+        "title": "Advanced Technical Analysis",
+        "duration": "6 weeks",
+        "lessons": [
+          "Fibonacci Retracements & Extensions",
+          "Elliott Wave Theory",
+          "Ichimoku Cloud Analysis",
+          "Volume Profile Trading",
+          "Multi-Timeframe Analysis"
+        ],
+        "prerequisites": "Technical Analysis Basics",
+        "certification": true
+      },
+      "options_derivatives": {
+        "title": "Options & Derivatives Trading",
+        "duration": "5 weeks",
+        "lessons": [
+          "Options Basics (Calls & Puts)",
+          "Greeks Understanding",
+          "Covered Calls Strategy",
+          "Protective Puts",
+          "Spreads and Combinations"
+        ],
+        "prerequisites": "Risk Management Essentials",
+        "certification": true
+      },
+      "defi_strategies": {
+        "title": "DeFi Trading Strategies",
+        "duration": "4 weeks",
+        "lessons": [
+          "Yield Farming Optimization",
+          "Liquidity Pool Trading",
+          "Arbitrage Opportunities",
+          "Flash Loan Strategies",
+          "MEV Protection"
+        ],
+        "prerequisites": "Crypto Basics",
+        "certification": true
+      }
+    },
+    "advanced": {
+      "algorithmic_trading": {
+        "title": "Algorithmic Trading Mastery",
+        "duration": "8 weeks",
+        "lessons": [
+          "Python for Trading",
+          "API Integration",
+          "Strategy Backtesting",
+          "Risk Management Automation",
+          "High-Frequency Trading"
+        ],
+        "prerequisites": "Advanced Technical Analysis",
+        "certification": true
+      },
+      "institutional_strategies": {
+        "title": "Institutional Trading Techniques",
+        "duration": "6 weeks",
+        "lessons": [
+          "Order Flow Analysis",
+          "Market Microstructure",
+          "Dark Pool Trading",
+          "Block Trading Strategies",
+          "Prime Brokerage"
+        ],
+        "prerequisites": "Options & Derivatives Trading",
+        "certification": true
+      },
+      "quantitative_analysis": {
+        "title": "Quantitative Risk Models",
+        "duration": "7 weeks",
+        "lessons": [
+          "Monte Carlo Simulations",
+          "Value at Risk (VaR)",
+          "Portfolio Optimization",
+          "Factor Models",
+          "Stress Testing"
+        ],
+        "prerequisites": "Algorithmic Trading Mastery",
+        "certification": true
+      }
+    }
+  },
+  "specializations": {
+    "chia_farming": {
+      "title": "Chia Network Farming Mastery",
+      "duration": "3 weeks",
+      "lessons": [
+        "Proof-of-Space Consensus",
+        "Plot Optimization",
+        "Hardware Selection",
+        "Pool vs Solo Farming",
+        "Profit Maximization"
+      ],
+      "prerequisites": "Crypto Basics",
+      "certification": true
+    },
+    "chainlink_oracles": {
+      "title": "Chainlink Oracle Economics",
+      "duration": "2 weeks",
+      "lessons": [
+        "Oracle Network Architecture",
+        "Node Operation",
+        "Data Feed Integration",
+        "Staking Strategies",
+        "DeFi Integration"
+      ],
+      "prerequisites": "DeFi Strategies",
+      "certification": true
+    }
+  }
+}
