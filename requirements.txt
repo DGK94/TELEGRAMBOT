@@ -1,0 +1,10 @@
+
+python-telegram-bot==20.3
+requests
+yfinance
+cryptography
+psutil
+aiohttp
+numpy
+pandas
+websocket-client
